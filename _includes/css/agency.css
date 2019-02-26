@@ -197,7 +197,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #e4552b !important;
+    background-color: #667a39 !important;
 }
 
 .navbar-default .navbar-brand {
@@ -268,7 +268,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-brand {
-        font-size: 2em;
+        font-size: 1.5em;
         -webkit-transition: all .3s;
         -moz-transition: all .3s;
         transition: all .3s;
@@ -304,7 +304,7 @@ header {
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
-    background-color: rgba(253,190,15,.81);
+    background-color: rgba(142,175,68,.81);
 }
 
 header .intro-text .intro-lead-in {
@@ -328,7 +328,7 @@ header .intro-text .intro-heading {
     header .intro-text {
         margin-top: 300px;
         margin-bottom: 200px;
-        /* background-color: rgba(253,190,15,.81); */
+        /* background-color: rgba(142,175,68,.81); */
     }
 
     header .intro-text .intro-lead-in {
@@ -364,6 +364,14 @@ header .intro-text .intro-heading {
 
     section h3.section-subheading {
         margin-bottom: 20px !important;
+    }
+
+    .navbar-default .navbar-brand {
+        font-size: 1em;
+    }
+
+    section .container {
+        padding-top: 2em;
     }
 }
 
