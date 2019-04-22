@@ -3,9 +3,9 @@ title: Golden
 subtitle: Website Design
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: classroom-4.jpg
-thumbnail: classroom-4.jpg
+date: 2019-04-2
+img: tmcdc_playyard.jpg
+thumbnail: tmcdc_playyard.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
