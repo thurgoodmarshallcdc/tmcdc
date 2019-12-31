@@ -1,10 +1,9 @@
-url: https://tmcdconline.org/
-# url: http://127.0.0.1:4000/
+url: https://tmcdc.org/
 baseurl: 
 
 # Site settings
 title: Thurgood Marshall Child Development Center
-email: TMCDC_Director@ao.uscourts.gov
+email: director@tmcdc.org
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 about: "<p>We provide quality care for children ages 3 months until kindergarten.</p>
@@ -19,7 +18,7 @@ people:
 - name: Janine Fetters
   pic: 5
   position: Executive Director
-  email: TMCDC_Director@ao.uscourts.gov
+  email: director@tmdc.org
 #   social:
 #     - title: twitter
 #       url: #
@@ -31,7 +30,7 @@ people:
 - name: Kiysha Ramey-Jenkins
   pic: k
   position: Associate Director
-  email: TMCDC@ao.uscourts.gov
+  email: kiysha@tmcdc.org
 #   social:
 #     - title: twitter
 #       url: #
@@ -40,47 +39,33 @@ people:
 #     - title: linkedin
 #       url: #
 
-# - name: Diana Petersen
-#   pic: 3
-#   position: Lead Developer
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: google-plus
-#       url: #
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: https://www.facebook.com/Thurgood-Marshall-Child-Development-Center-982569225163458/
+  - title: instagram
+    url: https://www.instagram.com/tmcdc/
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 2001 14th St, SE
-  - line: Washington, DC 20020
+  - line: Thurgood Marshall Federal Judiciary Building
+  - line: One Columbus Circle, NE
+  - line: Suite M-200
+  - line: Washington, DC 20544
 
 contact:
   description: Please contact us for more information about the Center. Our staff are ready to answer any questions you may have.
 
   location:
     -
-      name: Thurgood Marshall Federal Judiciary Building (located next to Union Station)
+      name: Thurgood Marshall Federal Judiciary Building
       address1: One Columbus Circle, NE
+      address2: Suite M-200
       city: Washington
       state: DC
       zipCode: 20544
 
-  phone: (202) 502-2475
+  phone: +1.202.502.2475
 
 # Build settings
 livereload: true
