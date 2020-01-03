@@ -18,12 +18,12 @@ people:
 - name: Janine Fetters
   pic: 5
   position: Executive Director
-  email: director@tmdc.org
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
+  email: director@tmcdc.org
+  social:
+     - title: intagram
+       url: https://www.instagram.com/tmcdc/
+     - title: facebook
+       url: https://www.facebook.com/Thurgood-Marshall-Child-Development-Center-982569225163458/
 #     - title: stack-overflow
 #       url: #
 
@@ -59,7 +59,7 @@ contact:
   location:
     -
       name: Thurgood Marshall Federal Judiciary Building
-      address1: One Columbus Circle, NE
+      address1: One Columbus Circle NE
       address2: Suite M-200
       city: Washington
       state: DC
