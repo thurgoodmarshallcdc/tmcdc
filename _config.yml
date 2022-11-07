@@ -15,15 +15,15 @@ about: "<p>We provide quality care for children ages 3 months until kindergarten
 
 # Team names, titles and social links
 people:
-- name: Janine Fetters
-  pic: 5
-  position: Executive Director
-  email: director@tmcdc.org
-  social:
-     - title: intagram
-       url: https://www.instagram.com/tmcdc/
-     - title: facebook
-       url: https://www.facebook.com/Thurgood-Marshall-Child-Development-Center-982569225163458/
+#- name: Janine Fetters
+#  pic: 5
+#  position: Executive Director
+#  email: director@tmcdc.org
+#  social:
+#     - title: intagram
+#       url: https://www.instagram.com/tmcdc/
+#     - title: facebook
+#       url: https://www.facebook.com/Thurgood-Marshall-Child-Development-Center-982569225163458/
 #     - title: stack-overflow
 #       url: #
 
@@ -31,13 +31,11 @@ people:
   pic: k
   position: Associate Director
   email: Kiysha@tmcdc.org
-#   social:
-#     - title: twitter
-#       url: #
-#     - title: facebook
-#       url: #
-#     - title: linkedin
-#       url: #
+   social:
+     - title: instagram
+       url: https://www.instagram.com/tmcdc/
+     - title: facebook
+       url: https://www.facebook.com/Thurgood-Marshall-Child-Development-Center-982569225163458/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
