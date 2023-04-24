@@ -15,17 +15,15 @@ about: "<p>We provide quality care for children ages 3 months until kindergarten
 
 # Team names, titles and social links
 people:
-#- name: Janine Fetters
-#  pic: 5
-#  position: Executive Director
-#  email: director@tmcdc.org
-#  social:
-#     - title: intagram
-#       url: https://www.instagram.com/tmcdc/
-#     - title: facebook
-#       url: https://www.facebook.com/Thurgood-Marshall-Child-Development-Center-982569225163458/
-#     - title: stack-overflow
-#       url: #
+- name: Sharon Hall-Fleming
+  pic: 5
+  position: Executive Director
+  email: director@tmcdc.org
+  social:
+     - title: intagram
+       url: https://www.instagram.com/tmcdc/
+     - title: facebook
+       url: https://www.facebook.com/Thurgood-Marshall-Child-Development-Center-982569225163458/
 
 - name: Kiysha Ramey-Jenkins
   pic: k
